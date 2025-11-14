@@ -1,0 +1,37 @@
+:root {
+  /* Colors */
+  --primary-color: #1abc9c; /* Новый цвет основной палитры */
+  --primary-hover: #16a085; /* Новый цвет при наведении */
+  --secondary-color: #e74c3c; /* Новый цвет вторичной палитры */
+  --error-color: #c0392b; /* Новый цвет для ошибок */
+  --text-primary: #34495e; /* Новый основной цвет текста */
+  --text-secondary: #7f8c8d; /* Новый вторичный цвет текста */
+  --text-light: #bdc3c7; /* Новый светлый цвет текста */
+  --bg-white: #ecf0f1; /* Новый цвет фона белого */
+  --bg-light: #dfe6e9; /* Новый цвет светлого фона */
+  --bg-hover: #f1c40f; /* Новый цвет фона при наведении */
+  --border-color: #bdc3c7; /* Новый цвет границы */
+  
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.15);
+  --shadow-lg: 0 8px 20px rgba(0, 0, 0, 0.2); /* Немного более заметная тень */
+  --shadow-primary: 0 4px 12px rgba(26, 188, 156, 0.4); /* Новая тень для основного цвета */
+  
+  /* Border Radius */
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  
+  /* Transitions */
+  --transition: all 0.3s ease;
+  
+  /* Spacing */
+  --spacing-xs: 8px;
+  --spacing-sm: 12px;
+  --spacing-md: 20px;
+  --spacing-lg: 30px;
+  --spacing-xl: 40px;
+}
+
+
